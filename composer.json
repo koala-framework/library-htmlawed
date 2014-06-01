@@ -1,0 +1,7 @@
+{
+    "name": "koala-framework/library-htmlawed",
+    "description": "Htmlawed library",
+    "type": "library",
+    "homepage": "http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/",
+    "license": "LGPL-3.0"
+}
